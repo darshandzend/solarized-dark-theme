@@ -7,7 +7,7 @@
   "description": "A Solarized theme for Standard Notes",
   "url": "https://raw.githubusercontent.com/darshandzend/solarized-dark-theme/master/dist/dist.css",
   "latest_url": "https://raw.githubusercontent.com/darshandzend/solarized-dark-theme/master/theme.json",
-  "download_url": "https://github.com/darshandzend/solarized-dark-theme/blob/master/archive/0.0.1.zip?raw=true",
+  "download_url": "https://raw.githubusercontent.com/darshandzend/solarized-dark-theme/master/archive/0.0.1.zip",
   "marketing_url": "https://github.com/dracula/sn-theme-dracula",
   "thumbnail_url": "https://cdn.jsdelivr.net/gh/dracula/sn-theme-dracula/preview.png",
   "dock_icon": {
